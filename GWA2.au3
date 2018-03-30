@@ -1,5 +1,6 @@
 ;~ Version 3.7.0
 ;~ After the Update from 03/2018
+;~ Feel free to share
 
 #include-once
 #RequireAdmin
